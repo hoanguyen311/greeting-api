@@ -1,3 +1,8 @@
 {
-  "message": "Hello, how are you?"
+  "greeting": {
+    "message": "Hello, how are you?"
+  },
+  "bye": {
+    "message": "Good bye"
+  }  
 }
